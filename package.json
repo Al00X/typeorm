@@ -20,7 +20,6 @@
     "./browser/driver/mongodb/MongoQueryRunner.js": "./browser/platform/BrowserDisabledDriversDummy.js",
     "./browser/entity-manager/MongoEntityManager.js": "./browser/platform/BrowserDisabledDriversDummy.js",
     "./browser/repository/MongoRepository.js": "./browser/platform/BrowserDisabledDriversDummy.js",
-    "./index.js": "./browser/index.js"
   },
   "repository": {
     "type": "git",
